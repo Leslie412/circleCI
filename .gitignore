@@ -1,0 +1,22 @@
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+
+carrier-billing-domain/src/generated
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+newrelic/
+*/incoming/
+*/outgoing/
+
+build/
+out/
+dist/
+
+.DS_Store
+
+**/generated/
